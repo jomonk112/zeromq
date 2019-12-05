@@ -25,5 +25,25 @@ steps to run the server and client files
   ```
   
   Nb: run server and client in two terminals you can seee the outputs
+  
+  Here I using 
+  
+  Request/Reply Pattern: Used for sending a request and receiving subsequent replies for each one sent.
+  
+  Use-cases:
+
+    -For simple communications between a server and client(s).
+
+    -Checking information and requesting updates.
+
+    -Sending checks and updates to the server.
+
+    -Echo or ping/pong implementations.
+
+Socket type(s) used:
+
+    -zmq.REP
+    -zmq.REQ
+
 
   
