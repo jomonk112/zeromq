@@ -26,6 +26,8 @@ steps to run the server and client files
   
   Nb: run server and client in two terminals you can seee the outputs
   
+  ## Notes:
+  
   Here I using 
   
   Request/Reply Pattern: Used for sending a request and receiving subsequent replies for each one sent.
